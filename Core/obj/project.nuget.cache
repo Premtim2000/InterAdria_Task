@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iQPTr3y2WNY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phaxh\\OneDrive\\Desktop\\Personal_Projects\\InterAdria_Task\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phaxh\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\phaxh\\.nuget\\packages\\fluentvalidation\\12.1.0\\fluentvalidation.12.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
